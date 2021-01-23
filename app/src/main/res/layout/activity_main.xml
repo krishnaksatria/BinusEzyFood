@@ -20,7 +20,7 @@
         app:layout_constraintVertical_bias="0.189" />
 
     <Button
-        android:id="@+id/topupBtn"
+        android:id="@+id/topUpBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
@@ -38,7 +38,7 @@
         android:layout_marginTop="80dp"
         android:text="Foods"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/topupBtn"
+        app:layout_constraintEnd_toStartOf="@+id/topUpBtn"
         app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/drinksBtn"
@@ -66,7 +66,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/myorderBtn"
+        android:id="@+id/myOrderBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="My Order"
